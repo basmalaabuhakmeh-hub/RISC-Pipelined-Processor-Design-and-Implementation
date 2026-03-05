@@ -1,12 +1,9 @@
-# Architecture Project — Pipeline Processor (Spring 2024–2025)
-
-Course project for **Project 2 (Spring 2024–2025)**.  
-Team IDs: **1220184, 1220871, 1220031**.
+# Architecture Project — Pipeline Processor 
 
 ## Contents
 
 - **projectArch/** — Active-HDL project (Verilog pipeline processor design)
-- **Arch_Report_1220184_1220871_1220031.pdf** — Project report (if present in this folder)
+- **Arch_Report_1220184_1220871_1220031.pdf** — Project report 
 
 ## Design overview
 
