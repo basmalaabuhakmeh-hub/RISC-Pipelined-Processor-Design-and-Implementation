@@ -1,0 +1,16 @@
+# Active-HDL / Aldec generated and cache
+projectArch/compile/
+projectArch/log/
+projectArch/Proccessor/slp/
+projectArch/Proccessor/*.lib
+projectArch/Proccessor/elaboration.log
+*.log
+projectArch/Edfmap.ini
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.bak
+*~
