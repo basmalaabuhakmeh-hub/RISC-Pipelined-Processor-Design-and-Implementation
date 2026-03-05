@@ -1,0 +1,375 @@
+timestamp=1749576411792
+
+[~A]
+C:/My_Designs/projectArch/src/ALU.v=0*31073*31900
+C:/My_Designs/projectArch/src/ALU.v_Comparator.v=0*19239*20271
+C:/My_Designs/projectArch/src/ALU.v_Comparator.v_Extender.v=0*36369*37669
+C:/My_Designs/projectArch/src/ALU.v_Comparator.v_Extender.v_splitInstruction.v_RegisterFile.v=0*51041*53399
+C:/My_Designs/projectArch/src/ALU.v_Comparator.v_Extender.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v=0*77898*80564
+C:/My_Designs/projectArch/src/ALU.v_Comparator.v_Extender.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v=0*93063*96126
+C:/My_Designs/projectArch/src/ALU.v_Comparator.v_Extender.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v=0*115570*119639
+C:/My_Designs/projectArch/src/ALU.v_Comparator.v_Extender.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v=0*751186*756777
+C:/My_Designs/projectArch/src/Comparator.v=0*277820*278398
+C:/My_Designs/projectArch/src/Comparator.v_ALU.v=0*33397*34445
+C:/My_Designs/projectArch/src/DataMemory.v=0*101735*102649
+C:/My_Designs/projectArch/src/InstructionMemory.v=0*81886*82519
+C:/My_Designs/projectArch/src/RegisterFile.v=0*311644*312753
+C:/My_Designs/projectArch/src/SingleProcessor.v=0*607814*609790
+C:/Users/Asus/Downloads/Arch_1220184_1220871_1220031/Arch_122/projectArch/src/PipeLineProcessor.v_ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*4822461*4832824
+C:/Users/Asus/Downloads/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/projectArch/projectArch/src/ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v=0*1111876*1120454
+C:/Users/Asus/Downloads/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/projectArch/projectArch/src/ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_PipeLineProcessor.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*1148968*1158187
+C:/Users/Asus/Downloads/ProjectArchFromLayal1/projectArch/projectArch/src/ALU.v_Comparator.v_Extender.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v=0*1006903*1014228
+C:/Users/Asus/Downloads/ProjectArchFromLayal1/projectArch/projectArch/src/ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v=0*1044746*1052951
+C:/Users/Asus/Downloads/ProjectArchFromLayal1/projectArch/projectArch/src/CompForB.v=0*1015954*1016590
+C:/Users/Asus/Downloads/ProjectArchFromLayal1/projectArch/projectArch/src/Comparator.v=0*1017955*1018609
+C:/Users/Asus/Downloads/ProjectArchFromLayal1/projectArch/projectArch/src/Stages/Fetch.v=0*1019943*1020711
+C:/Users/Asus/Downloads/finalprojectArch/projectArch/src/ControlUnit.v=0*4611253*4612532
+C:/Users/Asus/Downloads/finalprojectArch/projectArch/src/PipeLineProcessor.v_ALU.v_test.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*4598658*4609072
+C:/Users/Asus/Downloads/projectfromMalak/projectArch/src/PipeLineProcessor.v=0*2760498*2760854
+C:/Users/Asus/Downloads/projectfromMalak/projectArch/src/PipeLineProcessor.v_ALU.v_test.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*3197559*3209381
+C:/Users/Asus/Downloads/projectfromMalak/projectArch/src/PipeLineProcessor.v_test.v_ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*3175265*3187071
+C:/Users/Asus/Downloads/projectfromMalak/projectArch/src/test.v=0*3095981*3098597
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/PipeLineProcessor.v_ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*4862655*4873011
+C:/Users/Asus/OneDrive/Desktop/projectArch/src/PipeLineProcessor.v_ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*4842621*4852921
+C:/Users/Layal/Desktop/Arch_122/projectArch/src/PipeLineProcessor.v_ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*4782297*4792598
+C:/Users/Layal/Desktop/Arch_122/projectArch/src/PipeLineProcessor.v_ALU.v_test.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*4641791*4652179
+C:/Users/Layal/Desktop/BZU/projectArch/projectArch/projectArch/src/PipeLineProcessor.v_ALU.v_test.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*3977956*3988620
+C:/Users/Layal/Desktop/projectArch/projectArch/src/PipeLineProcessor.v_ALU.v_test.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*3375843*3387627
+C:/Users/Layal/Downloads/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/projectArch/projectArch/src/ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_PipeLineProcessor.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*1249850*1259284
+C:/Users/Layal/Downloads/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/projectArch/projectArch/src/Hazards/ForwardingUnit.v=0*1163334*1164003
+C:/Users/Layal/Downloads/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/projectArch/projectArch/src/PipeLineProcessor.v_test.v_ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*1441389*1452863
+C:/Users/Layal/Downloads/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/projectArch/projectArch/src/Stages/Decode.v=0*1386220*1387745
+C:/Users/Layal/Downloads/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/projectArch/projectArch/src/Stages/Execution.v_Decode.v=0*1382755*1384500
+C:/Users/Layal/Downloads/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/ProjectArchFromLayal1/projectArch/projectArch/src/test.v=0*1356165*1358865
+C:/Users/Layal/Downloads/ProjectArchFromLayal1/ProjectArchFromLayal1/projectArch/projectArch/src/ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v=0*1061064*1069388
+C:/Users/Layal/Downloads/ProjectArchFromLayal1/ProjectArchFromLayal1/projectArch/projectArch/src/ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v=0*1094858*1103415
+C:/Users/Layal/Downloads/projectArch/projectArch/src/ALU.v_Comparator.v_Extender.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v=0*938338*944352
+C:/Users/Layal/Downloads/projectArch/projectArch/src/ALU.v_Comparator.v_Extender.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_IF_ID.v_ID_EX.v=0*954224*960862
+C:/Users/Layal/Downloads/projectArch/projectArch/src/ALU.v_Comparator.v_Extender.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_IF_ID.v_ID_EX.v_EX_MEM.v=0*979912*986815
+C:/Users/Layal/Downloads/projectArch/projectArch/src/ALU.v_Comparator.v_Extender.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v=0*993154*1000178
+C:/Users/Layal/Downloads/projectArch/projectArch/src/ControlUnit.v=0*947559*948818
+C:/Users/Layal/Downloads/projectArch/projectArch/src/buffers/IF_ID.v=0*945747*946319
+C:/Users/user/Desktop/MalakBZU/ProjectArchFromLayal1/projectArch/projectArch/src/PipeLineProcessor.v_test.v_ALU.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*2325074*2336792
+C:/Users/user/Desktop/projectArch/projectArch/projectArch/src/PipeLineProcessor.v_ALU.v_test.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*4143366*4154041
+C:/Users/user/Desktop/projectfromMalak/projectArch/src/PipeLineProcessor.v_ALU.v_test.v_Extender.v_Comparator.v_splitInstruction.v_RegisterFile.v_InstructionMemory.v_DataMemory.v_PCcontrolUnit.v_ControlUnit.v_SingleProcessor.v_CompForB.v_IF_ID.v_ID_EX.v_EX_MEM.v_MEM_WB.v_Fetch.v_Decode.v_Execution.v_Memory.v_ForwardingUnit.v_Hazard_ControlUnit.v_killUnit.v_StallUnit.v=0*3286787*3298607
+LastVerilogToplevel=CompForB_test
+ModifyID=324
+Version=74
+
+[~MFT]
+0=33|0Proccessor.mgf|4873011|2510487
+1=62|1Proccessor.mgf|15326963|15243075
+3=124|3Proccessor.mgf|12236893|12177248
+
+[$root]
+A/$root=22|||1*15264289
+BinW64/$root=3*12189893
+SLP=3*12190008
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c921663cb3087f89d5634b21a45b0c74db639
+
+[ALU]
+A/ALU=22|../src/ALU.v|2|1*15295791
+BinW64/ALU=3*12204585
+R=../src/ALU.v|2
+SLP=3*12205579
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b3eb40c25b2a3c0379c7730185183eecefed26954b1c8b8a3f09662c838fc0ca
+
+[ALU_test]
+A/ALU_test=22|../src/ALU.v|30|1*15298579
+BinW64/ALU_test=3*12206920
+R=../src/ALU.v|30
+SLP=3*12208181
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|8044579493c78eebac7acb80f35f1b0e8e1a343e7c38e3fb4be78ef315d1c7df6c9bed49eb1bb7e3d7dbf8dd912bbf22
+
+[CompForB]
+A/CompForB=22|../src/CompForB.v|1|1*15320309
+BinW64/CompForB=3*12231235
+R=../src/CompForB.v|1
+SLP=3*12231795
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c504bbd1844d1ecb514b56cf74cf1d095a8861769e92b3aad2835acd9d3ea1568798cb139bfd1588f66b2c1752952bc6
+
+[CompForB_test]
+A/CompForB_test=22|../src/CompForB.v|11|1*15321276
+BinW64/CompForB_test=3*12232055
+R=../src/CompForB.v|11
+SLP=3*12232755
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|256cd06938af05e69f9f8366c3fb9e1baffa0faf9d8344d947ddef1e38b2aacf732e151d6bb5c522cc2a168483572068
+
+[Comparator]
+A/Comparator=22|../src/Comparator.v|1|1*15297522
+BinW64/Comparator=3*12206098
+R=../src/Comparator.v|1
+SLP=3*12206654
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|6b0cd2d20a0d9c2598236818b21170af6157a78d2114de38b45ca997313e64c7e560c18f26bfe8ca2c8c8db7c79b7024
+
+[Comparator_EQ]
+A/Comparator_EQ=22|../src/Comparator.v|1|1*16632
+BinW64/Comparator_EQ=3*13321
+R=../src/Comparator.v|1
+SLP=3*13901
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|e50d8152334f20d7602227b0407e5b8df53120ed12ed96fffc760da5b1fe932dcfcd8a1461385277f04608d1272dd7ef
+
+[ControlUnit]
+A/ControlUnit=22|../src/ControlUnit.v|1|1*15318139
+BinW64/ControlUnit=3*12226573
+R=../src/ControlUnit.v|1
+SLP=3*12228757
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|0dc9d995053bfcd284d27d4b39f3dbe96e13ddcddf1236a683baa337e5d9976b6632eb0ec2634913fff794713c22746e
+
+[DataMemory_test]
+A/DataMemory_test=22|../src/DataMemory.v|31|1*1158437
+BinW64/DataMemory_test=3*1109322
+R=../src/DataMemory.v|31
+SLP=3*1110674
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|8fb37f63936acd13f781f4c25858a1a5b40f65565100aee631048d6e81d268b31541c541a29700e62fce8dc9c00a566b
+
+[Data_MEM]
+A/Data_MEM=22|../src/DataMemory.v|2|1*15314426
+BinW64/Data_MEM=3*12222097
+R=../src/DataMemory.v|2
+SLP=3*12223711
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c755077e6f9312e9364cb3c0949bade39ed115a994258b9890deca85a964a020b1abb19a694ed79c1066ac68298cb0f0
+
+[DecodeStage]
+A/DecodeStage=22|../src/Stages/Decode.v|1|1*15277921
+BinW64/DecodeStage=3*12195129
+R=../src/Stages/Decode.v|1
+SLP=3*12196445
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|2af9d01254f38a87cdd1d319fa5426700ae9e402b45b3656ca1c0a29eeede49d0c1479466d05efd78fd1969bcda8ca67
+
+[EX_MEM]
+A/EX_MEM=22|../src/buffers/EX_MEM.v|2|1*15289651
+BinW64/EX_MEM=3*12201193
+R=../src/buffers/EX_MEM.v|2
+SLP=3*12202122
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|43d35b59784bc6cf4cebe586776e7035877c58791744368f6b03c1f0d34f37b0
+
+[ExecutionStage]
+A/ExecutionStage=22|../src/Stages/Execution.v|1|1*15287783
+BinW64/ExecutionStage=3*12200060
+R=../src/Stages/Execution.v|1
+SLP=3*12200787
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|266081a6608c73692851bae5a1d16f828d5d5e5ad640df3cf6caa96d82629e4308b0644c87802cd4216b6d5fbaca8f82
+
+[Extend]
+A/Extend=22|../src/Extender.v|2|1*15300393
+BinW64/Extend=3*12208926
+R=../src/Extender.v|2
+SLP=3*12209568
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|41fc5d3bf2a6cc1166b5b68f27f613e83004b1a59ad801effc74c365d3c16f5f
+
+[Extender_test]
+A/Extender_test=22|../src/Extender.v|14|1*15301407
+BinW64/Extender_test=3*12209849
+R=../src/Extender.v|14
+SLP=3*12210709
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|6e395acac596916f94284d080222f2ba177af095d577d0b9556c6c3db5077d90b168b9f3558a78dbac586039dab034a9
+
+[FetchStage]
+A/FetchStage=22|../src/Stages/Fetch.v|1|1*15273817
+BinW64/FetchStage=3*12192979
+R=../src/Stages/Fetch.v|1
+SLP=3*12193712
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|049b3166e4cfad98b5b673954bdfce008678b0d02a1060dbdfe560e29cd3b6d5bb9ef6486b21dbc1b79076be5d5c9dea
+
+[Forwarding_Unit]
+A/Forwarding_Unit=22|../src/Hazards/ForwardingUnit.v|2|1*15322458
+BinW64/Forwarding_Unit=3*12233104
+R=../src/Hazards/ForwardingUnit.v|2
+SLP=3*12233818
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|7f3ac40228a8d4896b20da3b9b7259440141332af138381fc8868bb8439c49a904a8d63d59f9212bb62cb7187a952e2c
+
+[Hazard_CU]
+A/Hazard_CU=22|../src/Hazards/Hazard_ControlUnit.v|2|1*15323913
+BinW64/Hazard_CU=3*12234242
+R=../src/Hazards/Hazard_ControlUnit.v|2
+SLP=3*12234361
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|39043e096f9b4f2df4e62f4388a959350f7ce5a768d781aa996f34a5bdeb297e867a0f27f3d3c3552050f3042d4e8fa3
+
+[ID_EX]
+A/ID_EX=22|../src/buffers/ID_EX.v|2|1*15284469
+BinW64/ID_EX=3*12197739
+R=../src/buffers/ID_EX.v|2
+SLP=3*12199148
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|bd10c1779e81bbbc843a8819881a1cece0433774fd5c61a688b8fd6c22cc993b
+
+[IF_ID]
+A/IF_ID=22|../src/buffers/IF_ID.v|2|1*15276528
+BinW64/IF_ID=3*12194265
+R=../src/buffers/IF_ID.v|2
+SLP=3*12194834
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|a129e128553cf383a30da3e0968e1bcbbe1410dd055f553967d50acefe356a1c
+
+[Inst_MEM]
+A/Inst_MEM=22|../src/InstructionMemory.v|2|1*15311899
+BinW64/Inst_MEM=3*12219855
+R=../src/InstructionMemory.v|2
+SLP=3*12220580
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|a28475ff7579c7a1613e5129f142d0f8198ec6b6a0ba330f494377b51402ce3a08194c011b1673de0610438ff4db49b4
+
+[InstructionMemory_test]
+A/InstructionMemory_test=22|../src/InstructionMemory.v|18|1*15313163
+BinW64/InstructionMemory_test=3*12220885
+R=../src/InstructionMemory.v|18
+SLP=3*12221679
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b86a443a1d82ec234d09f8a4c7b8cd6bf6e4762a30bbda45a975fd34ca9951bbbb3c1b47234ebfce11172c2d7bfca863
+
+[MEM_WB]
+A/MEM_WB=22|../src/buffers/MEM_WB.v|3|1*15294269
+BinW64/MEM_WB=3*12203721
+R=../src/buffers/MEM_WB.v|3
+SLP=3*12204327
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|39bae0a70df0b8bb15d6b08784945e239e70100278e81957864b3fecbf99df14
+
+[MemoryStage]
+A/MemoryStage=22|../src/Stages/Memory.v|1|1*15292412
+BinW64/MemoryStage=3*12202564
+R=../src/Stages/Memory.v|1
+SLP=3*12203304
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|e54923374c2e702ffb170be04ddd7f0529d1e9243c43c33c634e00d8ed33e8f0f4d8e50effcd5652e6a9ab9d7d3304cc
+
+[PC_CU]
+A/PC_CU=22|../src/PCcontrolUnit.v|3|1*15316459
+BinW64/PC_CU=3*12224603
+R=../src/PCcontrolUnit.v|3
+SLP=3*12225817
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|79f05a694c39ca256267333b7afb62b3cf7e0275eadca58f72704839e299940b
+
+[Pipelined_Processor]
+A/Pipelined_Processor=22|../src/PipeLineProcessor.v|1|1*15264807
+BinW64/Pipelined_Processor=3*12190076
+R=../src/PipeLineProcessor.v|1
+SLP=3*12191660
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|663076afc8c190dc0f758f70dda6ec4b90cce02110194f84b39ed62bc9c2deb7b2c9f3a2d300ae641027101533cfe00f
+
+[ProcessorTest]
+A/ProcessorTest=22|../src/SingleProcessor.v|178|1*10665459
+BinW64/ProcessorTest=3*8657020
+R=../src/SingleProcessor.v|178
+SLP=3*8657619
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b1b7846eafd440f7de19b916b2283e59ae121d4ea22a11e50c6d9ab54928cf66266316c8d5569c50dfc19a6678c30016
+
+[RISC_Processor]
+A/RISC_Processor=22|../src/test.v|1|1*4361901
+BinW64/RISC_Processor=3*3919885
+R=../src/test.v|1
+SLP=3*3921339
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|e6cfa00fc4d4584cb2694882ecc156e6c70593d8f0ad22c8754cbe2ec6adf16a4f0379b7922f5888fb0979e66946b907
+
+[RegFile]
+A/RegFile=22|../src/RegisterFile.v|2|1*15307408
+BinW64/RegFile=3*12214283
+R=../src/RegisterFile.v|2
+SLP=3*12216831
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|d0e0049a7c15a9eb84595120644d7cdc26527262ddaa47cb266f3a3c4d9b973a1fc8e9ffc1f93791ad0bee5bb495cd8b
+
+[RegFile_test]
+A/RegFile_test=22|../src/RegisterFile.v|42|1*15309852
+BinW64/RegFile_test=3*12217873
+R=../src/RegisterFile.v|42
+SLP=3*12219204
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|3b53341a4d88e7ddec99a4c6fd535830d10d224131fd95f253ab39898847d83c520b3a41ea5f45c21e82d38682fe8b06
+
+[SingleCycleProcessor]
+A/SingleCycleProcessor=22|../src/SingleProcessor.v|1|1*10658937
+BinW64/SingleCycleProcessor=3*8652950
+R=../src/SingleProcessor.v|1
+SLP=3*8655352
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|26e1494c8d5f31b61ea93787ac3a070e91efafe11df494e614e65ea00f3181401b85b19a20314df0fded895b3519487c
+
+[SingleProcessor]
+A/SingleProcessor=22|../src/SingleProcessor.v|2|1*314029
+BinW64/SingleProcessor=3*295391
+R=../src/SingleProcessor.v|2
+SLP=3*295516
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|a51c199e4836a31664a870fb41e6717a75550116f48c9bb16ec9158ea6d64b067d268dd04c115859ad2ed2515cde281c
+
+[Split]
+A/Split=22|../src/splitInstruction.v|2|1*15304033
+BinW64/Split=3*12212284
+R=../src/splitInstruction.v|2
+SLP=3*12212757
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|dc43f329d335642bfadef6b332084d095e75a1bf03b039b0d0c19b0792889d35
+
+[Splitter_test]
+A/Splitter_test=22|../src/splitInstruction.v|17|1*15305902
+BinW64/Splitter_test=3*12213087
+R=../src/splitInstruction.v|17
+SLP=3*12213787
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|2f91a87d6db62a6bdf80a72e66e24141f6d1d2b1778f6bd45db9e88edf05b747a54d358aa125fc7a3ad41bd5b1185be2
+
+[Stall]
+A/Stall=22|../src/Hazards/StallUnit.v|1|1*15325573
+BinW64/Stall=3*12234556
+R=../src/Hazards/StallUnit.v|1
+SLP=3*12235586
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|4357bd026540eeddd1082b62b553e8ce25eabf02384a2507fcbf947437060f25
+
+[comparator_test]
+A/comparator_test=22|../src/Comparator.v|11|1*15302713
+BinW64/comparator_test=3*12211144
+R=../src/Comparator.v|11
+SLP=3*12211908
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|4fc48fb11413961fef54f8c10737be2b9953d181692122e6cc23073a9b8c9edc05f0e1e286941967d706f5fd603d16ff
+
+[kill]
+A/kill=22|../src/Hazards/killUnit.v|2|1*15326963
+BinW64/kill=3*12236002
+R=../src/Hazards/killUnit.v|2
+SLP=3*12236893
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|3d7e1993fb106ebfba184e91552dcbbc98b120bf0a0b3ba32880378b08ec5bb4
+
+[tb_Pipelined_Processor]
+A/tb_Pipelined_Processor=22|../src/test.v|255|1*14212889
+BinW64/tb_Pipelined_Processor=3*11393417
+R=../src/test.v|255
+SLP=3*11394034
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f8a630fcb8ab3cd4f4dbe78699faaf0c0cde88f6053312202ab960c03494517e0c69e9f3f075ea1e33da1a24a3173549
+
+[tb_RISC_Processor]
+A/tb_RISC_Processor=22|../src/test.v|251|1*4391948
+BinW64/tb_RISC_Processor=3*3933328
+R=../src/test.v|251
+SLP=3*3933982
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|4b5a7532a8962c52db671f5c1f39efe9dffae2632fc5778b0648054c3f3e6478e656b4d6d8453622c4f183383b56faeb
+
+[~U]
+$root=12|0*4854029|
+ALU=12|0*4857871|
+ALU_test=12|0*4858343||0x10
+CompForB=12|0*4861219|
+CompForB_test=12|0*4861423||0x10
+Comparator=12|0*4858128|
+Comparator_EQ=12|0*10190|
+ControlUnit=12|0*4860841|
+DataMemory_test=12|0*400690||0x10
+Data_MEM=12|0*4860322|
+DecodeStage=12|0*4855692|
+EX_MEM=12|0*4856971|
+ExecutionStage=12|0*4856659|
+Extend=12|0*4858523|
+Extender_test=12|0*4858732||0x10
+FetchStage=12|0*4855091|
+Forwarding_Unit=12|0*4861596|
+Hazard_CU=12|0*4861864|
+ID_EX=12|0*4856275|
+IF_ID=12|0*4855443|
+Inst_MEM=12|0*4859920|
+InstructionMemory_test=12|0*4860127||0x10
+MEM_WB=12|0*4857620|
+MemoryStage=12|0*4857321|
+PC_CU=12|0*4860564|
+Pipelined_Processor=12|0*4854723|
+ProcessorTest=12|0*3396467||0x10
+RISC_Processor=12|0*1454558|
+RegFile=12|0*4859492|
+RegFile_test=12|0*4859748||0x10
+SingleCycleProcessor=12|0*3396160|
+SingleProcessor=12|0*124104||0x10
+Split=12|0*4859084|
+Splitter_test=12|0*4859318||0x10
+Stall=12|0*4862169|
+comparator_test=12|0*4858905||0x10
+kill=12|0*4862436|
+tb_Pipelined_Processor=12|0*4513247||0x10
+tb_RISC_Processor=12|0*1457699||0x10

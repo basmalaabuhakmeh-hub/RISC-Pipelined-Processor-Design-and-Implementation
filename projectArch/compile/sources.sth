@@ -1,0 +1,25 @@
+[Files List]
+C:/Aldec/Active-HDL-Student-Edition/vlib/std/src/standard.vhd=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/DataMemory.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/Comparator.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/ALU.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/Hazards/killUnit.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/Hazards/StallUnit.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/Hazards/Hazard_ControlUnit.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/RegisterFile.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/Hazards/ForwardingUnit.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/CompForB.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/Extender.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/ControlUnit.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/splitInstruction.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/PCcontrolUnit.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/InstructionMemory.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/buffers/MEM_WB.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/Stages/Memory.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/buffers/EX_MEM.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/Stages/Execution.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/buffers/ID_EX.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/Stages/Decode.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/buffers/IF_ID.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/Stages/Fetch.v=S
+C:/Users/Asus/OneDrive/Desktop/1220184_1220871_1220031/projectArch/src/PipeLineProcessor.v=S

@@ -1,0 +1,39 @@
+Active-HDL 15.0.261.9132 2025-06-10 20:28:17
+
+Elaboration top modules:
+Verilog Module                Pipelined_Processor
+
+
+----------------------------------------------------------------------------------------------
+Verilog Module          | Library    | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------
+Pipelined_Processor     | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+FetchStage              | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+IF_ID                   | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+DecodeStage             | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+ID_EX                   | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+ExecutionStage          | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+EX_MEM                  | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+MemoryStage             | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+MEM_WB                  | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Inst_MEM                | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+PC_CU                   | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Split                   | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+ControlUnit             | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Extend                  | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+CompForB                | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Forwarding_Unit         | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+RegFile                 | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Hazard_CU               | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Stall                   | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+kill                    | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+ALU                     | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Comparator              | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Data_MEM                | proccessor |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+Library                 | Comment
+----------------------------------------------------------------------------------------------
+proccessor              | None
+----------------------------------------------------------------------------------------------
